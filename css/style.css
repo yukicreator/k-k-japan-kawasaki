@@ -8880,7 +8880,7 @@ textarea.form-control {
   overflow: hidden;
   background: #273B5D; }
   .footer a {
-    color: #1ba12d; }
+    color: #fff; }
   .footer .footer-heading {
     font-size: 18px;
     margin-bottom: 30px;
@@ -8957,14 +8957,14 @@ textarea.form-control {
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
     .ftco-footer-social li a:hover {
-      color: #fff; }
+      color: #8fd0d2; }
 
 .footer-small-nav > li {
   display: inline-block; }
   .footer-small-nav > li a {
     margin: 0 10px 10px 0; }
     .footer-small-nav > li a:hover, .footer-small-nav > li a:focus {
-      color: #1ba12d; }
+      color: #8fd0d2; }
 
 @-webkit-keyframes pulse {
   0% {
