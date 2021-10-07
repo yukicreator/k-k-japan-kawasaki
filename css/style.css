@@ -8086,6 +8086,9 @@ h1, h2, h3, h4, h5,
     .wrap .phone a {
       color: #fff;
       font-size: 24px; }
+    .wrap .phone span a:hover {
+      background: #1ba12d;
+      border-color: #1ba12d; }
 
 .social-media {
   display: inline-block; }
