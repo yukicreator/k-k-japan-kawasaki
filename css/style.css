@@ -8072,14 +8072,15 @@ h1, h2, h3, h4, h5,
         .wrap .bg-wrap:after, .wrap .bg-wrap:before {
           display: none; } }
   .phone-text {
-    color: #fff; }
+    color: #fff;
+    font-size: 14px; }
   .wrap .phone {
     z-index: 1; }
     .wrap .phone span {
       color: #fff; }
     .wrap .phone a {
       color: #fff;
-      font-size: 12px; }
+      font-size: 14px; }
 
 .social-media {
   display: inline-block; }
