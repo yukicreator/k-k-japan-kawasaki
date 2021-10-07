@@ -5677,7 +5677,9 @@ button.bg-dark:focus {
   color: #fff; }
 
 .align-items-center h1 {
-  font-size: 14px; }
+  font-size: 14px;
+  position: inherit;
+  top: 2px; }
 
 .align-items-baseline {
   -webkit-box-align: baseline !important;
@@ -8076,14 +8078,14 @@ h1, h2, h3, h4, h5,
     font-size: 16px;
     font-weight: 500;
     position: inherit;
-    top: 5px; }
+    top: 6px; }
   .wrap .phone {
     z-index: 1; }
     .wrap .phone span {
       color: #fff; }
     .wrap .phone a {
       color: #fff;
-      font-size: 22px; }
+      font-size: 24px; }
 
 .social-media {
   display: inline-block; }
