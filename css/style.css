@@ -8074,7 +8074,9 @@ h1, h2, h3, h4, h5,
   .phone-text {
     color: #fff;
     font-size: 14px;
-    font-weight: 500; }
+    font-weight: 500;
+    position: inherit;
+    top: 5px; }
   .wrap .phone {
     z-index: 1; }
     .wrap .phone span {
