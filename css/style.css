@@ -8086,15 +8086,15 @@ h1, h2, h3, h4, h5,
     .wrap .phone a {
       color: #fff;
       font-size: 24px; }
-    .wrap .phone span a:hover {
+    .wrap .phone a:hover {
       background: #1ba12d;
       border-color: #1ba12d; }
 
 .social-media {
   display: inline-block; }
   .social-media p a {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     margin-right: 1px; 
     background: rgba(255, 255, 255, 0.55);
     border-radius: 50%; }
