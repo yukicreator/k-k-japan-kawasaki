@@ -8095,7 +8095,9 @@ h1, h2, h3, h4, h5,
   .social-media p a {
     width: 40px;
     height: 40px;
-    margin-right: 1px; }
+    margin-right: 1px; 
+    background: rgba(255, 255, 255, 0.55);
+    border-radius: 50%; }
     .social-media p a span {
       color: #fff; }
     .social-media p a:hover {
