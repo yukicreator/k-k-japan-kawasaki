@@ -5674,7 +5674,9 @@ button.bg-dark:focus {
   -webkit-box-align: center !important;
   -ms-flex-align: center !important;
   align-items: center !important; 
-  color: #fff;
+  color: #fff; }
+
+.align-items-center h1 {
   font-size: 12px; }
 
 .align-items-baseline {
