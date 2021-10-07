@@ -8067,6 +8067,8 @@ h1, h2, h3, h4, h5,
         padding-right: 20px; }
         .wrap .bg-wrap:after, .wrap .bg-wrap:before {
           display: none; } }
+  .phone-text {
+    color: #fff; }
   .wrap .phone {
     z-index: 1; }
     .wrap .phone span {
