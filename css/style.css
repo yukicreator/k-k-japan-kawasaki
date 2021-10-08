@@ -6465,18 +6465,26 @@ button.bg-dark:focus {
     visibility: visible;
     background-color: #1ba12d;
     transform: scaleX(1); 
-}
-
-.mr-2:before {
     content: "";
     position: absolute;
-    width: 100%;
+    width: 50%;
     height: 2px;
     bottom: 0px;
     left: 0;
     transition: all 0.5s ease-in-out 0s;
     z-index: -1;
 }
+
+/* .mr-2:before {
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 2px;
+    bottom: 0px;
+    left: 0;
+    transition: all 0.5s ease-in-out 0s;
+    z-index: -1;
+} */
 
 .mr-2,
 .mx-2 {
