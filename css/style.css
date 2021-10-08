@@ -6461,31 +6461,6 @@ button.bg-dark:focus {
 .my-2 {
   margin-top: 0.5rem !important; }
 
-.mr-2:hover:before {
-    visibility: visible;
-    background-color: #1ba12d;
-    transform: scaleX(1); 
-    content: "";
-    position: absolute;
-    width: 50%;
-    height: 2px;
-    bottom: 0px;
-    left: 0;
-    transition: all 0.5s ease-in-out 0s;
-    z-index: -1;
-}
-
-/* .mr-2:before {
-    content: "";
-    position: absolute;
-    width: 50%;
-    height: 2px;
-    bottom: 0px;
-    left: 0;
-    transition: all 0.5s ease-in-out 0s;
-    z-index: -1;
-} */
-
 .mr-2,
 .mx-2 {
   margin-right: 0.5rem !important; }
@@ -8111,23 +8086,6 @@ h1, h2, h3, h4, h5,
     .wrap .phone a {
       color: #fff;
       font-size: 24px; }
-/*     .wrap .phone a:hover {
-      background: #1ba12d;
-      border-color: #1ba12d; }  */
-    .wrap .phone a:hover:before {    
-      visibility: visible;
-      background-color: #1ba12d;
-      transform: scaleX(1); }
-    .wrap .phone a:before {
-      content: "";
-      position: absolute;
-      width: 100%;
-      height: 2px;
-      bottom: 0px;
-      transition: all 0.5s ease-in-out 0s;
-      z-index: -1;
-}
-
 
 .social-media {
   display: inline-block; }
