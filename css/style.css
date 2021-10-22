@@ -8720,7 +8720,8 @@ h1, h2, h3, h4, h5,
       .cases-wrap .img {
         margin-bottom: 30px; } }
   .cases-wrap .text {
-    width: 100%; }
+    width: 100%;
+    color: gray; }
     @media (min-width: 992px) {
       .cases-wrap .text {
         width: calc(100% - 300px); } }
