@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="jp">
+  <head>
+    <title>e-文書法 | 税理士法人 K&K Japan 川崎事務所</title>
+	  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="川崎に地域密着し、50年以上の豊富な経験からあなたに最適なサポートをご提案させていただきます。税務や相続、起業、確定申告、節税、融資などでお困りのお客様のために、コミュニケーションを大切にした丁寧な仕事を心がけます。安心の初回無料相談を設けていますのでお気軽にお問い合わせください。" />
+    <meta name="keywords" content="川崎 税理士,川崎 税理士 節税" />
+	  
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+	  
+ <!-- read jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+ <!-- read JS of Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+  </head>
+ <body>
+
+    <div class="wrap">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="bg-wrap">
+							<div class="row">
+								<div class="col-md-6 d-flex align-items-center">
+									<h1>川崎の税理士ならお任せください。</h1>		
+								</div>
+								<div class="col-md-6 d-flex justify-content-md-end">
+									<p class="phone-text">初回無料相談はお気軽に！</p>
+										<p class="mb-0 phone pl-md-2">
+											<a href="tel:044-870-5730" class="mr-2"><span class="fa fa-phone mr-1"></span> 044-870-5730</a> 
+										</p>
+									<div class="social-media">
+						    		<p class="mb-0 d-flex">
+						    			<a href="https://www.facebook.com/zeirishi.kkjapan/" target="_blanc" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+						    		</p>
+					        </div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-light ftco-navbar-light" id="ftco-navbar">
+	    <div class="container">
+	    	<a class="navbar-brand" href="index.html"><img src="images/K&K-logo.webp"></a>
+	    	<!-- <form action="#" class="searchform order-sm-start order-lg-last">
+          <div class="form-group d-flex">
+            <input type="text" class="form-control pl-3" placeholder="Search">
+            <button type="submit" placeholder="" class="form-control search"><span class="fa fa-search"></span></button>
+          </div>
+        </form> -->
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="fa fa-bars">Menu</span> 
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav m-auto">
+	          <li class="nav-item"><a href="index.html" class="nav-link">ホーム</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">K&Kについて</a></li>
+	          <li class="nav-item"><a href="services.html" class="nav-link">サービス</a></li>
+	          <li class="nav-item"><a href="cases.html" class="nav-link">事例紹介</a></li>
+	          <li class="nav-item active"><a href="blog.html" class="nav-link">ブログ</a></li>
+		  <li class="nav-item"><a href="blog.html" class="nav-link">求人</a></li>
+	          <li class="nav-item"><a href="blog.html" class="nav-link">アクセス</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">お問い合わせ</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-end">
+          <div class="col-md-9 ftco-animate pb-5">
+          	<p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span class="mr-2"><a href="blog.html">Blog <i class="ion-ios-arrow-forward"></i></a></span> <span>Blog Single <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-0 bread">Blog Single</h1>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ftco-section ftco-degree-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 ftco-animate">
+          	<p>
+              <img src="images/image_1.jpg" alt="" class="img-fluid">
+            </p>
+            <h1 class="mb-3">e-文書法</h1>
+            <p>事務仕事と言えば、文書とは切っても切り離せない関係にある。その文書保存にまつわる法律としての電子帳簿保存法を知る上では、当然に、e文書法についても知っておく必要がある。
+e-文書法も、電子帳簿保存法も、従来は各種法令により書面（紙）での保存が義務付けられていた国税関係書類などの法定保存文書を、電子データで保存することを容認する法律である。日本の電子社会科化を目指す「e-Japan戦略」の1つとして制定され、 ICT（デジタル化された情報の通信技術）の活用により書面や帳簿書類の保存にかかる負担を軽減して利便性の向上を図ることで、生活の向上や経済の発展に寄与することを目的としている。<br><br>
+
+つまり、e-文書法、さらには電子帳簿保存法によって、企業が扱う保存すべき文書の多くを電子化して保存できるようになってきたわけだ。ところが、e-文書法は2005年に施行された法律であるにもかかわらず、その知名度は低い。どうやら理由がありそうだ。
+e-文書法とはどのようなものなのか、電子帳簿保存法との違い、押さえておくべきポイントなどを確認しておこう。<br><br>
+
+<h2>e-文書法とは</h2>
+e-文書法とは、税法や会社法、商法、証券取引法などで保管が義務づけられている文書や帳簿、請求書、領収書などについて、紙媒体だけでなく電子化した文書ファイル（電磁的記録）での保存を認める法律で、「電子文書法」とも呼ばれているものだ。<br><br>
+
+e-文書法は通称であり、正確には2005年4月に施行された「民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律」と「民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律の施行に伴う関係法律の整備等に関する法律」の二つの法律から成り立っている。<br><br>
+
+私たちが普段から利用している文書を電子データ化し、主にＰＤＦなどのファイルで保存しているケースだ。もちろん、ＰＤＦなど電子化された文書ファイルばかりでなく、紙として保存された文書をスキャンして画像ファイルとしたものもあるのはご承知のとおりである。ただ、電子文書化は義務ではなく、あくまでも書面の原則は紙であるが事業体として電子化にメリットがあるのであれば容認するというスタンスを忘れてはならない。<br><br>
+
+対象となる文書は多岐にわたっている。会計帳簿、契約書、領収書、請求書、納品書、預金通帳、見積書、注文書などの財務税金関係書類に加えて、定款、株主総会・取締役会議事録などだ。詳しくは「内閣官房 情報通信技術（IT）総合戦略室」の「e-文書法によって電磁的記録による保存が可能となった規定」で確認できる。<br><br>
+
+逆に対象外とされているのは、例として船舶に備える手引書など緊急的に即座に見読可能な状態で確認すべきもの、免許証・許可証などの極めて現物性が高いもの、条約による制限があるものである。<br><br>
+
+実際に電子化するにあたっては法令要件を満たすことが必要となる。しかしそれさえクリアすれば、紙の書類をファイリングするといった作業をしなくて済み、保管スペースも削減でき、電子化によって検索性を高められるという効果が得られるとされている。e-文書法をうまく活用することで、業務効率化や経費削減を実現できるというわけだ。<br><br>
+
+ところで、e-文書法は企業のＩＴ戦略に直接的な影響を及ぼす法律であるにもかかわらず、同日に施行された「個人情報保護法」の陰に隠れてしまった経緯がある。情報の管理という意味では同じでも、個人のプライバシーを守るという安全管理措置への関心は、e-文書法のそれを大きく上回るものであったようだ。それだけに、e-文書法はなじみが薄く正しい理解にはほど遠いものとなった法律なのだ。<br><br>
+
+<h2>e-文書法の要件</h2>
+e-文書法の要件は各省庁の対象法令などによって異なっているが、前提として経済産業省の主導で、次の4つの技術的基本要件が定められている。なお、電子化して保存するときに4つの要件すべてを満たすことが求められるわけではなく、「見読性」以外は対象文書の種類によって必ず満たすべき要件とはなっていない。<br><br>
+
+<h3>1.見読性</h3>
+電子化されたデータがパソコンとモニター、プリンターなどを用いて明瞭な状態（解像度・階調などが適切な状態）で見られるようになっていること。解像度が目安として150dpiをクリアしており、見やすい状態になっていることが要請されている。必要なときに直ちに表示、または書面として出力できるようになっていることが求められており、「可視性」と表現されることもある要件だ。<br><br>
+
+<h3>2.完全性</h3>
+紙ならば金庫に保管することにより物理的に盗難に会うリスクを逓減できるが、電子データはコピーや改ざんが容易になる欠点があり、サイバー攻撃などの外的要因や誤操作による情報流出などの内的要因によるリスクが高まる問題がある。従って、保存期間中の滅失や毀損を抑止する措置としてセキュリティ対策が取られていることが求められる。
+そのため、内容の改変や消去を防ぎ、実際にそれらが起きた場合はその事実がわかるようになっていなければならない。また、場合によっては電子署名とタイムスタンプを使用することで、原本が正しい日付で改ざんが行われていないことを証明する必要も求められる。その結果、安全な場所にバックアップが保管されていることが必要な措置となって義務づけられているわけだ。<br><br>
+
+<h3>3.機密性</h3>
+文書を閲覧する権限のない外部の第三者がアクセスできない文書であること。サイバー攻撃などの不正アクセスの抑止がなされ機密性が保持されていることが必要である。そのためには、万全なセキュリティ対策を講じて、いつ、誰が、どの電子文書にアクセスしたかを把握できる状態にしておかなければならない。<br><br>
+
+<h3>4.検索性</h3>
+特にこの要件は、税務調査などの際に必要な文書へ確実にアクセスできる状態にすることを求めている。そのために目的のデータをすぐに引き出して文書を有効に活用できるよう、体系的な検索性の確保がなされていることが重要であり、会社の実情に見合うシステムを作り上げることに繋がる。<br><br></p>
+
+            <h2 class="mb-3 mt-5">e-文書法と電子帳簿保存法の違い</h2>
+            <p>
+              <img src="images/image_2.jpg" alt="" class="img-fluid">
+            </p>
+            <p>
+e-文書法より以前、1998年に施行された法律に電子帳簿保存法があるが、双方ともに密接な関連がある。そして、e-文書法と電子帳簿保存法の違いは次のとおりとなる。<br><br>
+
+<h3>電子帳簿保存法</h3>
+電子帳簿保存法は国税庁が管轄する法律。正式名称は「電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律」というものである。<br><br>
+
+この法律では会計帳簿や国税関係書類を電子化して保存することが認められ、その規定が定められている。当初はシステム上で電子データとして作成したデータのみが対象となっており、紙媒体をスキャンして保存することは対象外とされていた。<br><br>
+
+しかし、2005年のe-文書法の施行を受けて電子帳簿保存法は一部改正されることとなった。改正後は、領収書や契約書、請求書や納品書、見積書や注文書などがスキャナでの保存が容認された。一方で、棚卸表、貸借対照表、損益計算書などの決算関係書類はスキャナ保存不可となっている。この辺の経緯については、本サイトのケーススタディを確認されたい。<br><br>
+
+<h3>e-文書法は承認が不要、電子帳簿保存法は承認が必要</h3>
+e-文書法と電子帳簿保存法の違いの一つは、電子化にあたり承認が必要かどうかである。電子帳簿保存法に則って国税関係書類を電子化する際は、税務署長などに申請して承認を受けなくてはならないので注意が必要だ。<br><br>
+
+<h2>e-文書法対応で押さえておくべきポイント</h2>
+上述したように、e-文書法における要件は取り扱う電子文書によって違いがある。見読性はすべての文書に求められる要件であるが、検索性や完全性は一部の文書のみに必要とされる。また、機密性については今のところ法的根拠のある保存要件とはなっていない。いわゆる努力基準となっていることに留意する。<br><br>
+
+しかし、単に紙の文書をデータ化すればいいかといえば、それも違う。とくに国税関係書類は、電子帳簿保存法によって別途「真実性」と「可視性」が要件とされており、これはe-文書法における完全性と見読性、さらに検索性も含むものと捉えられている。そのため、文書の原本が改ざんされることなく正しいプロセスを経て電子化されており、また電子署名とタイムスタンプを付与したものでなくてはならないことに繋がるわけだ。<br><br>
+
+e-文書法への対応によって、業務を大幅に効率化できる可能性があるのは間違いない。ただし、対応する際はただ単に電子データ化するだけではなく、諸要件を満たす必要があり、そのためにはコストがかさむ場合もある。文書の電子化を考える際は、それらの点に注意して検討していこう。<br><br>
+
+
+最後まで読んでいただきありがとうございます。<br>
+今後において、税理士法人　Ｋ＆Ｋ　Ｊａｐａｎと共に、会計帳簿などの財務関連書類を中心として文書の電子化を考えていきませんか。
+事務の効率化は、時間という財産を生む「おカネのなる木」でもあります。これを機にして事務仕事の更なる合理化に着手していきましょう。ご質問ある方は、メールあるいは電話などお気軽に発信ください。お待ちしております。
+
+</p>
+            <h2 class="mb-3 mt-5">睡眠不足がもたらすデメリットとは？</h2>
+            <p>
+              <img src="images/image_2.jpg" alt="" class="img-fluid">
+            </p>
+            <p>精神科医の樺沢紫苑さんは、医学と脳科学が交差する見地から睡眠の重要性について訴えている。うっかりミスを起こしてしまうのはナゼ 
+なのかという点からだ。そして、それは脳の情報処理の仕組みがおかしくなっているからであると。では、どのような状態になっているのか
+といえば、実は、大きく大別すると以下の状態になっていることが原因だという。 <br><br>
+
+１．集中力の低下 <br><br>
+
+２．記憶を一時的に保存するワーキングメモリの機能低下 <br><br>
+
+３．脳のストレス疲労 <br><br>
+
+４．加齢による脳の老化 <br><br>
+
+３．はストレス過多状態、この頃流行のハラスメントなどに起因するものとも言えそうである、４は、誰もが避けては通れない領域。
+４に関しては、人間の寿命とのバランス関係を考慮すれば、活性化への取組みもしやすいと言えるが、今回の本筋とは逸れるので、別の
+機会に意見を交したい。 
+１は、脳内物質の低下で注意力散漫を引き起こしていること、２は、記憶保存容量の不足が引き起こしたものともなれば、いずれにしても 
+睡眠との因果関係は深いのではないかといえそうだ。 
+脳内物質の一種として睡眠をつかさどる物質があるということなので、脳によい睡眠物質を得るためにはどうするかを知ることで、心身の
+健康維持につながるということを頭に留めておきたい。<br><br>
+
+つまり、それほど睡眠時間の確保は、脳のパフォーマンス維持には必要不可欠の要素なのである。 <br><br>
+ 
+睡眠に密接に関連する、「集中力の欠如」は、いろいろなミスを誘発することは分かった。 <br><br>
+
+それでは、経営者の眠りを妨げる要素としては、会社のお金がストップしはしないかという不安が格別大きいだろう。これが、冒頭に掲げた
+負の魔力だが、ここでいう負の力に「勝てる睡眠」とは何を意味するだろう。<br><br>
+
+重要なのは「逆算で考える」こと。「集中力を高める」ことで、資金繰りを明解に予測することだろう。<br><br>
+
+今、直面している課題、この難局といえば、必要なことの大半が、「人（ヒト）」と「お金（あるいはおカネの情報）」だ。人材さえ、
+おカネがなければ雇うこともできないし、人の代わりにと思えば、ロボットか、はたまた機械を買入れるかと思いを馳せることになる。
+やはり、ここでものをいうのは、おカネにまつわる情報ということになる。<br><br>
+
+更に考えを進めてみよう。情報の中でも、最も重要なことの１つは、「資金繰り予測」だ。<br><br>
+
+ところが、ここにつまずくことが多い。中小企業経営者の多くが気にはなっているのに合理的な予測をしていない。希望的観測に頼ることが
+大きかったりする。そして、合理的な予測ができなければ、対策が遅れて困ることになる、あるいは判断が効かなくなり間違えることになる。<br><br>
+
+こんなはずではなかったという過ち、それは経営判断の「ミス」によるものなのである。<br><br>
+
+繰り返しになるが、資金繰りが回るように「資金繰り予測」をすることが大切と肝に銘じよう。<br><br>
+
+さて、「先の資金繰りがよく分からなくて眠れない」のならば、ここで重要なのは「今の状態で資金繰りはいつまで持つのか」正しく理解 
+することだ。正しい情報を得ることで、正しい打ち手や対応法を考えることが可能になり、それが、３か月後までなのか、１年先まで持つのか、 
+お金と時間軸を正しく把握しておくことで、今の状態がどの程度のものなのか、きちんと頭に置いておくことができる。 従って、
+  
+「資金調達」ばかりで、全てを解決しようとすることは、一番やってはいけない。 <br><br>
+
+眠れなくて、頭の中が「Ｍｏｎｅｙ　Ｍｏｎｅｙ　Ｍｏｎｅｙ」を繰返す、ＮＥＷ　Ｍｏｎｅｙ一色。<br><br>
+ 
+せっかく本来ならば、解決の道筋がついたはずなのに、その芽を自分自身で摘んでしまう資金調達行動は絶対に慎まねばならない。今すぐに
+別の対処をしたならば間に合ったはずなのに、手をこまねいてしてしまったばっかりに会社にとって深刻な事態を招いたなど論外だ。 しかし、
+
+こんな事態がそこ、ここで、起きている。<br><br>
+
+ここのところ、コロナの影響などで資金繰りが不安定になっている。<br><br>
+
+コロナなどの影響で売上が減少し、先行きが分からず不安だ。<br><br>
+
+今の自社の状況を客観的に把握し、今後の取組みについて整理したい。<br><br>
+
+初めてお願いする専門家に、いきなり高額の費用は払えないので、まずは一度お試しで計画したい。<br><br>
+
+などという声が聞こえてくる。<br><br>
+
+コロナ禍において、多くの中小企業者らが、売上の減少や借入の増大に直面しているが、資金繰り表を作成しないまま、今後のアクション
+を把握できていない経営者も多くいるようだ。
+もちろん、コロナ禍の影響は先行きを見とおすことが困難なものであるが、手許の現預金がどのように推移するかを予測する資金繰り表を
+作成し、そこから逆算して早いうちに売上の向上策や費用の抑制策などの経営改善の取組みを始める必要がある。更には、売上等が回復する
+時期が不透明なため、資金繰りの予定を作成するには、複数のケースを作成してシミュレーションすることが重要となる。<br><br>
+
+このポストコロナ時代において資金繰り計画を作成することがいかに大切か。
+それこそが、みなさんが体験していること。<br><br>
+
+最後まで、読んでいただきありがとうございます。
+今後において、Ｋ＆Ｋ　Ｊａｐａｎと共に、「資金繰り計画」を元にして会社をよくするために、計画表をつくりお金の流れをつかんでいきませんか。
+計画を実際にいっしょに実行に移していきましょう。ご賛同いただいた方におかれましては、メールあるいは電話などお気軽に発信ください。</p>
+            <div class="tag-widget post-tag-container mb-5 mt-5">
+              <div class="tagcloud">
+                <a href="#" class="tag-cloud-link">Life</a>
+                <a href="#" class="tag-cloud-link">Sport</a>
+                <a href="#" class="tag-cloud-link">Tech</a>
+                <a href="#" class="tag-cloud-link">Travel</a>
+              </div>
+            </div>
+            
+            <div class="about-author d-flex p-4 bg-light">
+              <div class="bio mr-5">
+                <img src="images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
+              </div>
+              <div class="desc">
+                <h3>税理士法人 K&K Japan</h3>
+                <p>K&K Japan は、税務会計をベースに、提案力・相談力重視の 総合ビジネスパートナーを目指している税理士事務所です。</p>
+              </div>
+            </div>
+
+<!--
+            <div class="pt-5 mt-5">
+              <h3 class="mb-5">6 Comments</h3>
+               <ul class="comment-list">
+                <li class="comment">
+                  <div class="vcard bio">
+                    <img src="images/person_1.jpg" alt="Image placeholder">
+                  </div>
+                  <div class="comment-body">
+                    <h3>John Doe</h3>
+                    <div class="meta">March 31, 2020 at 2:21pm</div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                    <p><a href="#" class="reply">Reply</a></p>
+                  </div>
+                </li>
+
+                <li class="comment">
+                  <div class="vcard bio">
+                    <img src="images/person_1.jpg" alt="Image placeholder">
+                  </div>
+                  <div class="comment-body">
+                    <h3>John Doe</h3>
+                    <div class="meta">March 31, 2020 at 2:21pm</div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                    <p><a href="#" class="reply">Reply</a></p>
+                  </div>
+
+                  <ul class="children">
+                    <li class="comment">
+                      <div class="vcard bio">
+                        <img src="images/person_1.jpg" alt="Image placeholder">
+                      </div>
+                      <div class="comment-body">
+                        <h3>John Doe</h3>
+                        <div class="meta">March 31, 2020 at 2:21pm</div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                        <p><a href="#" class="reply">Reply</a></p>
+                      </div>
+
+
+                      <ul class="children">
+                        <li class="comment">
+                          <div class="vcard bio">
+                            <img src="images/person_1.jpg" alt="Image placeholder">
+                          </div>
+                          <div class="comment-body">
+                            <h3>John Doe</h3>
+                            <div class="meta">March 31, 2020 at 2:21pm</div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                            <p><a href="#" class="reply">Reply</a></p>
+                          </div>
+
+                            <ul class="children">
+                              <li class="comment">
+                                <div class="vcard bio">
+                                  <img src="images/person_1.jpg" alt="Image placeholder">
+                                </div>
+                                <div class="comment-body">
+                                  <h3>John Doe</h3>
+                                  <div class="meta">March 31, 2020 at 2:21pm</div>
+                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                                  <p><a href="#" class="reply">Reply</a></p>
+                                </div>
+                              </li>
+                            </ul>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li> 
+                <li class="comment">
+                  <div class="vcard bio">
+                    <img src="images/person_1.jpg" alt="Image placeholder">
+                  </div>
+                  <div class="comment-body">
+                    <h3>John Doe</h3>
+                    <div class="meta">March 31, 2020 at 2:21pm</div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
+                    <p><a href="#" class="reply">Reply</a></p>
+                  </div>
+                </li>
+              </ul>
+              <!-- END comment-list --> -->
+              
+              <div class="comment-form-wrap pt-5">
+                <h3 class="mb-5">Leave a comment</h3>
+                <form action="#" class="p-5 bg-light">
+                  <div class="form-group">
+                    <label for="name">Name *</label>
+                    <input type="text" class="form-control" id="name">
+                  </div>
+                  <div class="form-group">
+                    <label for="email">Email *</label>
+                    <input type="email" class="form-control" id="email">
+                  </div>
+                  <div class="form-group">
+                    <label for="website">Website</label>
+                    <input type="url" class="form-control" id="website">
+                  </div>
+
+                  <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea name="" id="message" cols="30" rows="10" class="form-control"></textarea>
+                  </div>
+                  <div class="form-group">
+                    <input type="submit" value="Post Comment" class="btn py-3 px-4 btn-primary">
+                  </div>
+
+                </form>
+              </div>
+            </div>
+
+<!--           </div> <!-- .col-md-8 -->
+          <div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
+            <div class="sidebar-box">
+              <form action="#" class="search-form">
+                <div class="form-group">
+                  <span class="fa fa-search"></span>
+                  <input type="text" class="form-control" placeholder="Type a keyword and hit enter">
+                </div>
+              </form>
+            </div> -->
+		  
+            <div class="sidebar-box ftco-animate">
+              <div class="categories">
+                <h3>Services</h3>
+                <li><a href="#">Market Analysis <span class="fa fa-chevron-right"></span></a></li>
+                <li><a href="#">Accounting Advisor <span class="fa fa-chevron-right"></span></a></li>
+                <li><a href="#">General Consultancy <span class="fa fa-chevron-right"></span></a></li>
+                <li><a href="#">Structured Assesment <span class="fa fa-chevron-right"></span></a></li>
+              </div>
+            </div>
+
+            <div class="sidebar-box ftco-animate">
+              <h3>Recent Blog</h3>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> Mar. 31, 2020</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> Mar. 31, 2020</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/image_3.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> Mar. 31, 2020</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="sidebar-box ftco-animate">
+              <h3>Tag Cloud</h3>
+              <div class="tagcloud">
+                <a href="#" class="tag-cloud-link">home</a>
+                <a href="#" class="tag-cloud-link">builder</a>
+                <a href="#" class="tag-cloud-link">build</a>
+                <a href="#" class="tag-cloud-link">create</a>
+                <a href="#" class="tag-cloud-link">make</a>
+                <a href="#" class="tag-cloud-link">construction</a>
+                <a href="#" class="tag-cloud-link">house</a>
+                <a href="#" class="tag-cloud-link">architect</a>
+              </div>
+            </div>
+
+            <div class="sidebar-box ftco-animate">
+              <h3>Paragraph</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section> <!-- .section -->
+
+    <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
+      <div class="container py-5">
+    		<div class="row">
+          <div class="col-md-7 d-flex align-items-center">
+            <h2 class="mb-3 mb-sm-0" style="color:black; font-size: 22px;">Sign Up for Your Free 1st Accounting Consultation</h2>
+          </div>
+          <div class="col-md-5 d-flex align-items-center">
+            <form action="#" class="subscribe-form">
+              <div class="form-group d-flex">
+                <input type="text" class="form-control" placeholder="Enter email address">
+                <input type="submit" value="Subscribe" class="submit px-3">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+			<div class="container-fluid px-lg-5">
+				<div class="row">
+					<div class="col-md-9 py-5">
+						<div class="row">
+							<div class="col-md-4 mb-md-0 mb-4">
+								<h2 class="footer-heading">About us</h2>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<ul class="ftco-footer-social p-0">
+		              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
+		              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
+		              <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+		            </ul>
+							</div>
+							<div class="col-md-8">
+								<div class="row justify-content-center">
+									<div class="col-md-12 col-lg-10">
+										<div class="row">
+											<div class="col-md-4 mb-md-0 mb-4">
+												<h2 class="footer-heading">Services</h2>
+												<ul class="list-unstyled">
+						              <li><a href="#" class="py-1 d-block">Market Analysis</a></li>
+						              <li><a href="#" class="py-1 d-block">Accounting Advisor</a></li>
+						              <li><a href="#" class="py-1 d-block">General Consultancy</a></li>
+						              <li><a href="#" class="py-1 d-block">Structured Assestment</a></li>
+						            </ul>
+											</div>
+											<div class="col-md-4 mb-md-0 mb-4">
+												<h2 class="footer-heading">Discover</h2>
+												<ul class="list-unstyled">
+						              <li><a href="#" class="py-1 d-block">About us</a></li>
+						              <li><a href="#" class="py-1 d-block">Contract us</a></li>
+						              <li><a href="#" class="py-1 d-block">Terms &amp; Conditions</a></li>
+						              <li><a href="#" class="py-1 d-block">Policies</a></li>
+						            </ul>
+											</div>
+											<div class="col-md-4 mb-md-0 mb-4">
+												<h2 class="footer-heading">Resources</h2>
+												<ul class="list-unstyled">
+						              <li><a href="#" class="py-1 d-block">Security</a></li>
+						              <li><a href="#" class="py-1 d-block">Global</a></li>
+						              <li><a href="#" class="py-1 d-block">Charts</a></li>
+						              <li><a href="#" class="py-1 d-block">Privacy</a></li>
+						            </ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row mt-md-5">
+							<div class="col-md-12">
+								<p class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
+					  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 py-md-5 py-4 aside-stretch-right pl-lg-5">
+						<h2 class="footer-heading">Free consultation</h2>
+						<form action="#" class="form-consultation">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Subject">
+              </div>
+              <div class="form-group">
+                <textarea name="" id="" cols="30" rows="3" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+              	<button type="submit" class="form-control submit px-3">Send A Message</button>
+              </div>
+            </form>
+					</div>
+				</div>
+			</div>
+		</footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
